@@ -1,0 +1,27 @@
+table,tr,td{
+  border-collapse: collapse;
+  border:solid 1px black;
+}
+tr, td{
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+}
+table{
+  margin: auto;
+ background-color: green;
+}
+h1{
+  text-align: center;
+}
+body{
+  background-color: #DCDCDC;
+}
+table{
+  cursor: pointer;
+}
+.revealed{
+  cursor: auto;
+  background-color: #ADFF2F;
+}
